@@ -9,3 +9,5 @@ Scaffolding for a React+Express+Typescript project including:
 
 ## Client
 * TailwindCSS
+
+Make sure to create and init the prisma schema
